@@ -24,15 +24,10 @@ todo-list-app
 │   └── script.js
 └── README.md
 
-## How to Run the Project
-1. Download or clone the repository
-2. Open the project folder
-3. Open `index.html` in your browser
+## 🌐 Live Demo
+Visit : https://divyanshugupta72688.github.io/todo-list-app/
 
-## Future Improvements
-- Edit tasks
-- Mark tasks as completed
-- Save tasks using Local Storage
+
 
 ## Author
 Divyanshu Gupta
